@@ -78,6 +78,11 @@ python manochitramcode.py
 
 ---
 
+##Screenshots 
+
+
+
+---
 ## License
 This project is for personal/non-commercial use. See TMDB’s [terms of use](https://www.themoviedb.org/terms-of-use) for API usage.
 
