@@ -5,15 +5,6 @@ A modern, user-friendly movie recommendation desktop app using Python, Tkinter, 
 ---
 ## screenshots
 
-
-[![Page 1](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)
-
-[![Page 2](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)
-
-[![Page 3](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)
-
-[![Page 4](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)
-
 [![Page 5](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0017.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0017.jpg)
 
 [![Page 6](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0018.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0018.jpg)
@@ -21,6 +12,13 @@ A modern, user-friendly movie recommendation desktop app using Python, Tkinter, 
 [![Page 7](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0019.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0019.jpg)
 
 [![Page 8](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0020.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0020.jpg)
+[![Page 1](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)
+
+[![Page 2](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)
+
+[![Page 3](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)
+
+[![Page 4](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)
 
 
 ---
