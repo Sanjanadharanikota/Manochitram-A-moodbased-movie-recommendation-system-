@@ -3,25 +3,6 @@
 A modern, user-friendly movie recommendation desktop app using Python, Tkinter, and The Movie Database (TMDB) API. It suggests movies based on your mood (sentiment analysis) and age, with a beautiful macOS-inspired interface, dark mode, and history export features.
 
 ---
-## screenshots
-
-[![Page 5](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0017.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0017.jpg)
-
-[![Page 6](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0018.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0018.jpg)
-
-[![Page 7](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0019.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0019.jpg)
-
-[![Page 8](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0020.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0020.jpg)
-[![Page 1](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)
-
-[![Page 2](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)
-
-[![Page 3](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)
-
-[![Page 4](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)
-
-
----
 
 ## Features
 
@@ -47,10 +28,34 @@ A modern, user-friendly movie recommendation desktop app using Python, Tkinter, 
   - Your TMDB API key is kept outside the main code, in a separate file, for better security. This makes it easy to change your API key without editing code or risking accidental exposure.
 
 ---
+## 🔄 Project Workflow
+
+<a href="https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/flowchart.png">
+  <img src="https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/flowchart.png" width="600">
+</a>
+
 ## System Architecture
 [View System Architecture (PDF)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/SystemArchitecture.pdf)
 
+## screenshots
 
+[![Page 5](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0017.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0017.jpg)
+
+[![Page 6](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0018.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0018.jpg)
+
+[![Page 7](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0019.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0019.jpg)
+
+[![Page 8](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0020.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241129-WA0020.jpg)
+[![Page 1](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0000.jpg)
+
+[![Page 2](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0001.jpg)
+
+[![Page 3](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0005.jpg)
+
+[![Page 4](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)](https://github.com/Sanjanadharanikota/Manochitram-A-moodbased-movie-recommendation-system-/blob/main/IMG-20241123-WA0006.jpg)
+
+
+---
 ## Setup Instructions
 
 ### 1. Install Python dependencies
