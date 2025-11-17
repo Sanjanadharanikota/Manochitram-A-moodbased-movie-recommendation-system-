@@ -3,6 +3,17 @@
 A modern, user-friendly movie recommendation desktop app using Python, Tkinter, and The Movie Database (TMDB) API. It suggests movies based on your mood (sentiment analysis) and age, with a beautiful macOS-inspired interface, dark mode, and history export features.
 
 ---
+## 📑 Table of Contents
+
+- [Features](#features)
+- [Project Workflow](#project-workflow)
+- [System Architecture](#system-architecture)
+- [Screenshots](#screenshots)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [License](#license)
+- [Credits](#credits)
 
 ## Features
 
